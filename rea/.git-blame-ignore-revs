@@ -1,5 +1,5 @@
 # Commits on main that only move files or rewrite import paths.
-# Use with: git config blame.ignoreRevsFile .git-blame-ignore-revs
+# Use with: git config blame.ignoreRevsFile rea/.git-blame-ignore-revs
 #
 # Each entry is the full SHA of the commit as it landed on main (squash and
 # rebase merges give a PR's commits new SHAs), so a move is listed by a later

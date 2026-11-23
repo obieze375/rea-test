@@ -285,7 +285,7 @@ environment; a dependency update does not verify the revised environment.
 
 Commits that only move files or rewrite import paths are listed in
 `.git-blame-ignore-revs`; run
-`git config blame.ignoreRevsFile .git-blame-ignore-revs` once so `git blame`
+`git config blame.ignoreRevsFile rea/.git-blame-ignore-revs` once so `git blame`
 attributes lines to the change that wrote them. Move files with `git mv` and
 keep such a commit free of other edits.
 
